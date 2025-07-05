@@ -26,10 +26,8 @@ MX Linux Power Pack 1.1- CLI Performance Optimizer
 - 🧹 **Clean Uninstall Option**
 
 ---
-
 ## 🚀 Install
 
-Download `.deb` from [Releases](../../releases/latest)
-
 ```bash
+wget https://github.com/SarwerAhmedKhan/mxlpp1.1/releases/download/v1.1/mxlpp_1.1-1.deb
 sudo dpkg -i mxlpp_1.1-1.deb
