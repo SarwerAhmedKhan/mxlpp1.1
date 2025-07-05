@@ -27,7 +27,11 @@
 
 ## 🚀 Install
 
-Download `.deb` from [Releases](../../releases/latest)
+## 🚀 Install
 
-```bash
+1. Download the `.deb` package from the [Releases](https://github.com/SarwerAhmedKhan/mxlpp1.1/releases).
+2. Open a terminal in the download directory and run:
+bash
+wget https://github.com/SarwerAhmedKhan/mxlpp1.1/releases/download/v1.1/mxlpp_1.1-1.deb
 sudo dpkg -i mxlpp_1.1-1.deb
+
